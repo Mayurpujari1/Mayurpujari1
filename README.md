@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://Mayurpujari1.io)
-<h1 align="center">Hi 👋, I'm Mayur Pujari</h1>
+<h1 align="center">Hi 👋, I'm Mayur Pujari Currently Persuing MCA</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align = "right" alt="Coding" width ="400" src = "https://www.maketecheasier.com/assets/uploads/2022/05/Featured-Image-Add-Screenshot-Animation-GitHub-Pull-Requests.jpg"
 
